@@ -11,7 +11,11 @@ header {
     color: white;
   }
 
-
+.music {
+  background-color: #b89e81;
+  color: white;
+  padding: 10px;
+}
  
 
   /* Style the footer */
